@@ -1,0 +1,13 @@
+20190510 DMM就職ガイダンス
+資料参考）
+
+次回以降持ち物
+
+・PC
+・ラミネート
+
+面談等
+六本木本社
+
+git branch ~
+git checkout -b develop
